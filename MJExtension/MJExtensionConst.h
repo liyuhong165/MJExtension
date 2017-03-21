@@ -4,7 +4,7 @@
 
 #import <Foundation/Foundation.h>
 
-// 过期
+// 过期的注释
 #define MJExtensionDeprecated(instead) NS_DEPRECATED(2_0, 2_0, 2_0, 2_0, instead)
 
 // 构建错误
